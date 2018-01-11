@@ -707,6 +707,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
+    libgpustats \
     libsdm-disp-apis \
     libthermalclient \
     libtime_genoff \
